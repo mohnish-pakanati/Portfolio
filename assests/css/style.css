@@ -1,16 +1,11 @@
-#hero {
-  background: #f8f9fa;
-  min-height: 70vh;
-}
-
 #hero h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
-#hero h3 {
-  font-size: 1.2rem;
-  color: #555;
+#hero p {
+  font-size: 1rem;
+  color: #444;
 }
 
 #hero .btn {
