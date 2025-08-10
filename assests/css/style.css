@@ -1,34 +1,19 @@
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-}
-
 #hero {
   background: #f8f9fa;
+  min-height: 70vh;
 }
 
-h1, h2, h3 {
+#hero h1 {
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
-section {
-  padding: 40px 0;
+#hero h3 {
+  font-size: 1.2rem;
+  color: #555;
 }
 
-img {
-  border-radius: 8px;
-  margin-bottom: 15px;
-}
-
-a {
-  text-decoration: none;
-}
-
-.btn-primary {
-  background-color: #007bff;
-  border: none;
-}
-
-.btn-primary:hover {
-  background-color: #0056b3;
+#hero .btn {
+  border-radius: 25px;
+  padding: 0.5rem 1rem;
 }
